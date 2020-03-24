@@ -1,1 +1,1 @@
-Using Convolutional Neural Networks for Image Classification and Image Segmentation
+Using CNN for Classifying Images of Cats and Dogs using Keras
